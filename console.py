@@ -1,7 +1,5 @@
 #!/usr/bin/python3
 """ console """
-# This code is a part of a software framework and is provided for educational purposes only. 
-# All rights reserved to the original author.
 
 import cmd
 from datetime import datetime

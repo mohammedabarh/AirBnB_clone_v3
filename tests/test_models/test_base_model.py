@@ -1,8 +1,5 @@
 #!/usr/bin/python3
-"""Test BaseModel for expected behavior and documentation
-This code is a part of a software framework and is provided for educational purposes only. 
-All rights reserved to the original author.
-"""
+"""Test BaseModel for expected behavior and documentation"""
 from datetime import datetime
 import inspect
 import models

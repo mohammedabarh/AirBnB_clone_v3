@@ -1,8 +1,6 @@
 #!/usr/bin/python3
 """
 Contains the TestCityDocs classes
-This code is a part of a software framework and is provided for educational purposes only. 
-All rights reserved to the original author.
 """
 
 from datetime import datetime

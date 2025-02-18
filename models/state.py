@@ -1,8 +1,5 @@
 #!/usr/bin/python3
-""" holds class State
-This code is a part of a software framework and is provided for educational purposes only. 
-All rights reserved to the original author.
-"""
+""" holds class State"""
 import models
 from models.base_model import BaseModel, Base
 from models.city import City
